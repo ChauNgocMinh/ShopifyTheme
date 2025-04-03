@@ -1,0 +1,192 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/tinh-dau-tram-huong.jpg",
+        "heading": "<strong>Cửa hàng trầm hương Hưng Phát</strong>",
+        "subheading": "<em>Cửa hàng Trầm hương Hưng Phát chuyên</em> kế, gia công các loại vòng tay Trầm Hương, vòng cổ Trầm Hương, chuỗi Trầm Hương - Kỳ Nam chất lượng cao nhất và quý hiếm nhất, được gia công một cách tỉ mỉ, độc đáo và tinh tế.Chuyên các loại bột, nhang Trầm Hương thiên nhiên nguyên chất và các loại phụ kiện Trầm Hương, mang lại giá trị Trầm Hương thiên nhiên đích thực với lời cam kết tuyệt đối về chất lượng sản phẩm chuẩn Trầm thật.",
+        "button_text": "Xem ngay",
+        "button_link": ""
+      }
+    },
+    "image_with_text_dnhXwQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_myCbyQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_NJg3YL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_cgmUg9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_myCbyQ",
+        "text_NJg3YL",
+        "button_cgmUg9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/tinh-dau-tram-huong.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "right",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_HLjamq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FQQAc7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Sản phẩm nổi bật</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_JfXYkM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Trầm hương được sản xuất mới mỗi ngày theo đơn hàng đáp ứng nhu cầu cho quán trên toàn quốc.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FQQAc7",
+        "text_JfXYkM"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "featured_product_cus_piGprR": {
+      "type": "featured-product-cus",
+      "blocks": {
+        "title_X6kAnp": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_PKA4pm": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_YYdBiT": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_dLD4nR": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_Jm66VQ": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "title_X6kAnp",
+        "price_PKA4pm",
+        "variant_picker_YYdBiT",
+        "quantity_selector_dLD4nR",
+        "buy_buttons_Jm66VQ"
+      ],
+      "custom_css": [
+        ".global-media-settings {border: none;}"
+      ],
+      "settings": {
+        "product": "nhang-trầm-hương-sạch-thượng-hạng",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "hover",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_pQj4E4": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "image_with_text_dnhXwQ",
+    "rich_text_HLjamq",
+    "featured_product_cus_piGprR",
+    "featured_collection_pQj4E4"
+  ]
+}
