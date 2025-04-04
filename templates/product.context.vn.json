@@ -12,5 +12,12 @@
   "context": {
     "market": "vn"
   },
-  "sections": {}
+  "sections": {
+    "main": {
+      "settings": {
+        "padding_top": 100
+      },
+      "blocks": {}
+    }
+  }
 }
