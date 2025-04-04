@@ -304,7 +304,7 @@ quick-add-modal .product__media-list .deferred-media {
 }
 
 quick-add-modal .product__column-sticky {
-  top: 0;
+  top: 100px;
   position: relative;
 }
 
